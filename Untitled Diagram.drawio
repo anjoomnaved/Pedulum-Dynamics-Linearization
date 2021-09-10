@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-10T05:49:58.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="AljgKvzcAlEK2sQreIU8" version="15.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-10T06:14:56.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="hYj4wNl_7056MkB_uLCH" version="15.1.4" type="github">
   <diagram id="mIanIxTLOtAHTVfokB1G" name="Page-1">
-    <mxGraphModel dx="716" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="1">
+    <mxGraphModel dx="865" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,7 +66,7 @@
           <mxGeometry x="325" y="410" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kW5CJFtHc9ydnyZhcMnz-22" value="m=mass of the ball&lt;br&gt;g=acceleration due to gravity(9.8m/s^2)" style="ellipse;whiteSpace=wrap;html=1;shadow=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kW5CJFtHc9ydnyZhcMnz-24" value="" style="endArrow=none;html=1;shadow=0;strokeWidth=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -104,8 +104,26 @@
             <mxPoint x="520" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kW5CJFtHc9ydnyZhcMnz-32" value="mg cos(theta)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kW5CJFtHc9ydnyZhcMnz-32" value="mg*cos(theta)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="475" y="360" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kW5CJFtHc9ydnyZhcMnz-35" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=1;" edge="1" parent="1" source="kW5CJFtHc9ydnyZhcMnz-33" target="kW5CJFtHc9ydnyZhcMnz-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW5CJFtHc9ydnyZhcMnz-33" value="mu=zero" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kW5CJFtHc9ydnyZhcMnz-34" value="Frictionless contact surface" style="ellipse;whiteSpace=wrap;html=1;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kW5CJFtHc9ydnyZhcMnz-38" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;strokeWidth=1;" edge="1" parent="1" source="kW5CJFtHc9ydnyZhcMnz-36" target="kW5CJFtHc9ydnyZhcMnz-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kW5CJFtHc9ydnyZhcMnz-36" value="Note" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kW5CJFtHc9ydnyZhcMnz-37" value="Pendulum with NO air friction has been considered" style="ellipse;whiteSpace=wrap;html=1;shadow=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="130" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
